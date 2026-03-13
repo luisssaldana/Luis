@@ -1,15 +1,5 @@
 ### 💫 About Me:
-Escribe aquí una breve descripción sobre ti, lo que estás aprendiendo o lo que te apasiona.
-
----
-
-### 🌐 Socials:
-<a href="#">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+Estudiante de Ingeniería en Sistemas Computacionales del Instituto Tecnológico Superior de El Mante.  Enfoque en front.
 
 ---
 
@@ -24,8 +14,19 @@ Escribe aquí una breve descripción sobre ti, lo que estás aprendiendo o lo qu
 
 ---
 
+###
+Socials:
+<a href=[ // ](https://applink.instagram.com/p/DVrHd7xiaJ-/?igsh=MTkzcmpmZXJ2aDFldA%3D&ig_mid=579E6859-7070-4ACB-ABDF-8D3D075C10BB&utm_source=igweb&fall_back_to_web=false)>
+<img src="https://img.shields.io/badge/
+Instagram-E4405F?style=for-the-
+badge&logo=instagram&logoColor=white"
+alt="Instagram" />
+</a>
+
+---
+
 ### 📊 GitHub Stats:
 <a href="https://github.com/TU_USUARIO">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luisssaldana&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </a>
 
