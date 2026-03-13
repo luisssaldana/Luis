@@ -16,7 +16,7 @@ Estudiante de Ingeniería en Sistemas Computacionales del Instituto Tecnológico
 
 ###
 Socials:
-<a href=[ // ](https://applink.instagram.com/p/DVrHd7xiaJ-/?igsh=MTkzcmpmZXJ2aDFldA%3D&ig_mid=579E6859-7070-4ACB-ABDF-8D3D075C10BB&utm_source=igweb&fall_back_to_web=false)>
+<a href="https://applink.instagram.com/p/DVrHd7xiaJ-/?igsh=MTkzcmpmZXJ2aDFldA%3D&ig_mid=579E6859-7070-4ACB-ABDF-8D3D075C10BB&utm_source=igweb&fall_back_to_web=false">
 <img src="https://img.shields.io/badge/
 Instagram-E4405F?style=for-the-
 badge&logo=instagram&logoColor=white"
