@@ -1,4 +1,4 @@
-### 💫 About Me:
+### 🙋 About Me:
 Estudiante de Ingeniería en Sistemas Computacionales del Instituto Tecnológico Superior de El Mante.  Enfoque en front.
 
 ---
