@@ -26,7 +26,7 @@ alt="Instagram" />
 ---
 
 ### 📊 GitHub Stats:
-<a href="https://github.com/TU_USUARIO">
+<a href="https://github.com/luisssaldana">
   <img src="https://github-readme-stats.vercel.app/api?username=luisssaldana&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </a>
 
